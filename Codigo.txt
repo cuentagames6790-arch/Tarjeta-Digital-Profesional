@@ -1,0 +1,9 @@
+index.html
+
+styles.css
+
+script.js
+
+foto.jpg
+
+favicon.ico
